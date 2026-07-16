@@ -1,4 +1,3 @@
-# Dictionary of users and passwords
 users = {"user1": "password1", "user2": "password2", "Aemun": "password3"}
 
 def check_user(username):
