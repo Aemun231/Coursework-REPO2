@@ -2,5 +2,5 @@
 
 
 
-Tasks 1 to 6 for assessment 2:3 starting with making meaningful changes.  
+Tasks 1 to 6 for assessment 2:3 starting with making meaningful changes, then going through making and editing commits.  
 
