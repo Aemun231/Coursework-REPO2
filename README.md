@@ -2,5 +2,5 @@
 
 
 
-Task 1 and Task for AC2:3, making meaningful changes and refactoring. 
+Tasks 1 to 6 for assessment 2:3 starting with making meaningful changes.  
 
