@@ -1,4 +1,4 @@
-users = {"user1": "password1", "user2": "password2"}
+users = {"user1": "password1", "user2": "password2", "Aemun": "password3"}
 
 def is_valid_user(username):
     #Check if the username exists in the users dictionary
