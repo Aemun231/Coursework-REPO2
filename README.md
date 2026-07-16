@@ -1,2 +1,6 @@
 # Coursework-REPO2
-A repo to show how I am familiar with refactoring.  
+
+
+
+Task 1 and Task for AC2:3, making meaningful changes and refactoring. 
+
