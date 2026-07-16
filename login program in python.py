@@ -1,6 +1,6 @@
 users = {"user1": "password1", "user2": "password2", "Aemun": "password3"}
 
-def is_valid_user(username):
+def check_user(username):
     #Check if the username exists in the users dictionary
     return username in users
 
@@ -13,7 +13,7 @@ def login():
     username = input("Enter your username: ")
     password = input("Enter your password: ")
     
-    if not is_valid_user(username):
+    if not check_user(username):
         print("Username and/or password not found")
         return
     
